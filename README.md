@@ -1,6 +1,6 @@
 # Yo, I'm Vin
 
-**I'm a programmer, I mostly make things in C#**
+### I'm a programmer, I mostly make things in C#
 
 If you want to contact me, my info is on my [website](https://vinfg1.com)
 
